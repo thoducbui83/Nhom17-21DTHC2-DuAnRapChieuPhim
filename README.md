@@ -55,3 +55,13 @@ Migration: dotnet ef CLI – triển khai không lo
 Container (optional): Docker – chạy mọi môi trường
 Dev build sạch – không để bug vương
 
+Jira - Dự Án Rap Chiếu Phim
+![5](https://github.com/user-attachments/assets/bdea124a-c2fe-48cf-945e-7795275f926c)
+![4](https://github.com/user-attachments/assets/7243c673-8672-4cc7-8046-652cabaa2c84)
+![3](https://github.com/user-attachments/assets/98d85ee0-3459-432a-8f16-5e0c7e9af286)
+![2](https://github.com/user-attachments/assets/d75d7c23-c349-40e0-a591-cfb8d32f3274)
+![1](https://github.com/user-attachments/assets/1deda353-f13f-4e30-99ee-254b91e3a85a)
+
+
+
+
