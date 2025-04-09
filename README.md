@@ -20,7 +20,6 @@ ASP.NET – Core MVC
 
 Razor view kết hợp – đẹp như chiếu phim HD
 
-
 EF Core làm ORM – save dữ liệu như chơi
 
 SQL Server giữ từng vé không rơi
@@ -28,6 +27,8 @@ SQL Server giữ từng vé không rơi
 HTML, CSS – JS bay lượn
 
 Frontend mượt mà – như nước suối giữa rừng
+
+
 
 
 
@@ -51,6 +52,8 @@ Trải nghiệm mượt mà – khỏi cần đi xa
 
 
 
+
+
 🎤 Admin xuất hiện, like a boss 😎]
 
 Admin vào – như đạo diễn chính
@@ -68,6 +71,8 @@ Phim nào hot – xem biểu đồ là đủ
 Phân quyền user – rõ ràng từng bước
 
 Từ nhân viên – tới người quản lý lớn nhất
+
+
 
 
 
@@ -95,7 +100,9 @@ Dev build sạch – không để bug vương
 
 
 
-https://www.flaticon.com/free-icon/jira_5968875 Jira - Dự Án Rap Chiếu Phim
+
+
+🔷 Jira - Dự Án Rạp Chiếu Phim
 ![5](https://github.com/user-attachments/assets/bdea124a-c2fe-48cf-945e-7795275f926c)
 ![4](https://github.com/user-attachments/assets/7243c673-8672-4cc7-8046-652cabaa2c84)
 ![3](https://github.com/user-attachments/assets/98d85ee0-3459-432a-8f16-5e0c7e9af286)
