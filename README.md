@@ -117,10 +117,22 @@ Dev build sạch – không để bug vương
 ![1](https://github.com/user-attachments/assets/1deda353-f13f-4e30-99ee-254b91e3a85a)
 
 
+
+
+
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
+
+
+
+
 🎨 Figma - Dự Án Rạp Chiếu Phim
+
+
+
+
 ![image](https://github.com/user-attachments/assets/2b2d2a1c-89f0-4aa4-9858-5850fbf8a27d)
 ![image](https://github.com/user-attachments/assets/341fac3c-7a88-468c-a25d-dc642aae6a75)
 ![image](https://github.com/user-attachments/assets/84897366-797e-413e-8d0a-e68f269c2963)
